@@ -1,0 +1,29 @@
+# .gitignore: , used in order to not commit large data
+
+# Data files
+data/*.csv
+data/*.json
+data/*.zip
+data/*.parquet
+*.csv
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
