@@ -8,3 +8,6 @@ How to obtain the data:
 3. Click "Download" to get the ZIP file
 4. Extract the contents into the project `data/` directory. The `data/` folder is git-ignored and should not be committed.
 
+Expected file after extraction:
+- `data/stock_details_5_years.csv`
+
