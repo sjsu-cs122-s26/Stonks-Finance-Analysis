@@ -11,6 +11,7 @@ Group Members:
 
 ## Data Setup
 See `data/README.md` for download instructions.
+- note: data set cannot be pushed due to the large file size. 
 
 ## Set up environment via IDE buttons (easiest):
 - In the notebook environment / directory (ie: `notebooks/Project_Assignment_02.ipynb`), press 'Select Kernel' located on the top right of the notebook. Select 'Python Environments', then select the `.venv` kernel created from the Quick Start.
