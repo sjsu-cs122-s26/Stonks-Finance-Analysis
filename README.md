@@ -8,6 +8,7 @@ Group Members:
 
 ## Notebooks
 - `notebooks/Project_Assignment_02.ipynb` : explore the data and perform basic transformations and visualizations 
+- `notebooks/Project_Assignment_03.ipynb` : transforms, groupby aggregations, seaborn visuals, and linear regression for AAPL
 
 ## Data Setup
 See `data/README.md` for download instructions.
