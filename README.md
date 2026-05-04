@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name cs122-venv --display-name "Python (.venv - CS122)"
 
 # open notebook directly (no VS Code environment button needed)
-jupyter notebook notebooks/Project_Assignment_02.ipynb
+jupyter notebook notebooks/01_stock_feature_engineering.ipynb
 
 # or start Jupyter Lab
 jupyter lab
