@@ -7,16 +7,16 @@ Group Members:
 - Cristian Navarro
 
 ## Notebooks
-- `notebooks/Project_Assignment_02.ipynb` : explore the data and perform basic transformations and visualizations 
-- `notebooks/Project_Assignment_03.ipynb` : transforms, groupby aggregations, seaborn visuals, and linear regression for AAPL
-- `notebooks/Project_Assignment_04.ipynb` : additional visualizations to help with analysis: lineplot & heatmap
+- `notebooks/01_stock_feature_engineering.ipynb` : explore the data and perform basic transformations and visualizations 
+- `notebooks/02_stock_transforms_groups_visuals.ipynb` : transforms, groupby aggregations, seaborn visuals, and linear regression for AAPL
+- `notebooks/03_stock_advanced_visuals.ipynb` : additional visualizations to help with analysis: lineplot & heatmap
 
 ## Data Setup
 See `data/README.md` for download instructions.
 - note: data set cannot be pushed due to the large file size. 
 
 ## Set up environment via IDE buttons (easiest):
-- In the notebook environment / directory (ie: `notebooks/Project_Assignment_02.ipynb`), press 'Select Kernel' located on the top right of the notebook. Select 'Python Environments', then select the `.venv` kernel created from the Quick Start.
+- In the notebook environment / directory (ie: `notebooks/02_stock_transforms_groups_visuals.ipynb`), press 'Select Kernel' located on the top right of the notebook. Select 'Python Environments', then select the `.venv` kernel created from the Quick Start.
 - install dependencies via `pip install -r requirements.txt`.
 - run a cell
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name cs122-venv --display-name "Python (.venv - CS122)"
 
 # open notebook directly (no VS Code environment button needed)
-jupyter notebook notebooks/Project_Assignment_02.ipynb
+jupyter notebook notebooks/02_stock_transforms_groups_visuals.ipynb
 
 # or start Jupyter Lab
 jupyter lab
